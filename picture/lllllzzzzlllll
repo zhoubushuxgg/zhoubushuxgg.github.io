@@ -1,0 +1,17 @@
+body{
+  background-color:blue;
+}
+p{
+  color:red;
+}
+#para1{
+  color:green;
+  font-size:13px;
+}
+h1,h2,h3,h4,h5{
+  color:white;
+  font-size:34px;
+}
+*{
+  font-style:italic;
+}
